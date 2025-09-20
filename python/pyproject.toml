@@ -1,0 +1,7 @@
+[project]
+name = "python"
+version = "0.1.0"
+description = "python 공부를 위한 프로젝트"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
